@@ -39,9 +39,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85136792</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two cousins fall in love with a beautiful princess.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Two Noble Kinsmen&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare’s&lt;/a&gt; final play before he died in 1616. &lt;a href="https://standardebooks.org/ebooks/john-fletcher"&gt;John Fletcher&lt;/a&gt; collaborated with Shakespeare on this play and, later, took over as playwright for the King’s Men. This plot derives from “The Knight’s Tale” in Chaucer’s &lt;i&gt;Canterbury Tales&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Thebes and Athens are at war. The tyrant, Creon of Thebes, commands Arcite and Palamon to fight for him. After a battle against Theseus, they end up captured and imprisoned. From their cell window, they see a beautiful woman named Emilia. Arcite and Palamon’s friendship turns into rivalry when they challenge each other to a fight to the death. The victor wins Emilia.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on the 1894 Royal Shakspere edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
