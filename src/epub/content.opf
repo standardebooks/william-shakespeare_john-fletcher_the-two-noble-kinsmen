@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Two Noble Kinsmen</dc:title>
 		<meta property="file-as" refines="#title">Two Noble Kinsmen, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The 2 Noble Kinsmen</meta>
+		<meta property="dcterms:alternative" refines="#title">The 2 Noble Kinsmen</meta>
 		<dc:subject id="subject-1">Knights and knighthood -- Drama</dc:subject>
 		<dc:subject id="subject-2">Athens (Greece) -- Drama</dc:subject>
 		<dc:subject id="subject-3">Tragicomedy</dc:subject>
