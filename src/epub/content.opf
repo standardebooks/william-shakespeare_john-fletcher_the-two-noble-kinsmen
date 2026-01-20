@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1542</dc:source>
 		<dc:source>https://archive.org/details/cu31924056255031</dc:source>
 		<meta property="se:production-notes">The main text is based on the PG transcription and 1894 Royal Shakspere edition.</meta>
-		<meta property="se:word-count">26343</meta>
+		<meta property="se:word-count">25457</meta>
 		<meta property="se:reading-ease.flesch">79.5</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Two_Noble_Kinsmen</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_john-fletcher_the-two-noble-kinsmen</meta>
